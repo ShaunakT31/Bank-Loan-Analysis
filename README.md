@@ -77,6 +77,12 @@ A full list of field definitions is provided in the **Data_Terminologies.pdf**.
 
 ---
 
-## Author
+## Contact
 
-Created by [Your Name] as part of a data analytics portfolio project.
+For questions, collaborations, or feedback:
+
+**Shaunak Torgatti**  
+Email: shaunakht@gmail.com  
+LinkedIn: [www.linkedin.com/in/shaunaktorgatti](https://www.linkedin.com/in/shaunaktorgatti)
+
+---
